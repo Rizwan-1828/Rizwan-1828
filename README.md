@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rizwan-1828
-- 👀 I’m interested in Java development and Application development.Currently getting interested in devOps.
-- 🌱 I’m currently learning Java,Python,sql
+- 👀 I’m interested in Fullstack Development and Application development.Currently getting interested in devOps.
+- 🌱 I’m currently learning JavaScript and had already intermediate knowledge about Java programming language.
 - 📫 How to reach me email : srizwan9423@gmail.com
 <!---
 Rizwan-1828/Rizwan-1828 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
